@@ -1,7 +1,7 @@
 # Coverage and quality of open metadata for Dutch research output
 SQL code accompanying report **'Coverage and quality of open metadata for Dutch research output'**
 
-These SQL scripts were used to select research outputs and collect relevant metadata. 
+These SQL scripts were used to select research outputs and collect relevant metadata.  
 Not yet added are SQL scripts to calculate aggregated data underlying individual figures and tables in the report
 
 Report: https://doi.org/10.5281/zenodo.10629457  
